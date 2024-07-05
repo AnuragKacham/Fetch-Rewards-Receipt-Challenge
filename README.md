@@ -35,7 +35,7 @@ Commands:
 **./run_app.sh**
 
 ## **Store data**
-1. Store data in a bash file as shown in data_add.sh and run using:
+Store data in a bash file as shown in data_add.sh and run using:
 **chmod +x ./data_add.sh**
 **./data_add.sh**
 
